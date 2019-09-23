@@ -4,4 +4,4 @@
 [![BSD3 license](https://img.shields.io/badge/license-BSD3-blue.svg)](LICENSE)
 [![Build status](https://secure.travis-ci.org/chessai/parnix.svg)](https://travis-ci.org/chessai/parnix)
 
-See README for more info
+concurrent nix-copy-closure, useful if nixops is not an option
